@@ -3,7 +3,7 @@
 # About me
 My name is Brian Kohaya (He/Him). I am originally from Sacramento, CA and moved to Los Angeles 8 years ago to attend UCLA for undergrad. I've been in Los Angeles every since. I am currently a first year student in the MURP program and am studying housing and the conflict involving its construction. In my undergrad education, I studied Asian American Studies, so I try to incorporate my past knowledge into my urban planning studies. In my free time I like to volunteer in Little Tokyo, lift weights, and drink coffee.
 
-
+![Brian at the US Open](https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/304913895_6161443323871486_7792030035797767475_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=KQIA2LmvRcQAX-32leZ&tn=TQz1w9cIP8uF8iNY&_nc_ht=scontent-lax3-1.xx&oh=00_AfCC5vnh-UqCysB0kWoJkuokmfCLiuMNWlfPPnYrNwKaiQ&oe=63CA08E7)
 
 # Course Description and Class Objectives
 The purpose of this course is to introduce us to the program GIS and become proficient in its basics via Python. This is a tool to help us visually map information so it can be more easily understandable by both our peers and the general public. Since I have no past experience in either Python (or coding in general) or GIS, I know that I have a lot to learn. My own objective is to learn the basics of coding via Python and be able to produce basic maps to demonstrate information visually. My maps will probably not be as complex as some of the others in the class, but I plan to try my best to overcome my learning curve and be successful in this class. 
